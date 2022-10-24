@@ -1,4 +1,4 @@
-# CS 3190 - HW3 - Question 1
+# CS 3190 - HW3 - Question 1 
 # Jessika Jimenez
 
 import numpy as np 
